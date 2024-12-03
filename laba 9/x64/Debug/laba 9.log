@@ -1,0 +1,3 @@
+﻿  laba 9.cpp
+D:\учёба\логика в ОА и ИЗ\laba7\laba 9\laba 9.cpp(56,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\учёба\логика в ОА и ИЗ\laba7\laba 9\laba 9.cpp(60,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
